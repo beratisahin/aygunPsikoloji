@@ -22,7 +22,7 @@ const Nav = () => {
   return (
     <nav className={`navbar navbar-expand-md bg-light ${navClass}`}>
       <div className='container'>
-        <a className='navbar-brand' href='https://www.instagram.com/uzmanpsikologhanifeaygun/' target="_blank">
+        <a className='navbar-brand' href='/' target="_blank">
          <img src={logo2} style={{height:"100%", width:"100%"}}></img>
          
         
@@ -53,7 +53,7 @@ const Nav = () => {
             </li>
             <li className='nav-item'>
               <Link target='about' classes='nav-link'>
-                Hakkımızda
+                HAKKINDA
               </Link>
             </li>
             <li className='nav-item'>

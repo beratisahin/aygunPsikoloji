@@ -1,7 +1,7 @@
 import React from 'react';
 
 import Section from '../../../HOC/Section';
-import bgImage from '../../../assets/img/home_bg.jpg';
+import bgImage from '../../../assets/img/aygun5.jpg';
 import Link from '../../UI/Link/Link';
 
 const home = () => {
@@ -13,10 +13,9 @@ const home = () => {
           style={{ backgroundImage: `url(${bgImage})` }}
         >
           <div className='intro container text-center text-light'>
-            <h1 className='title'>UZMAN KLİNİK PSİKOLOG HANİFE AYGÜN</h1>
+            <h1 className='title'>UZMAN KLİNİK PSİKOLOG <br/>HANİFE AYGÜN</h1>
             <h2 className='sub-title mb-4'>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores
-              laborum minus molestiae.
+              "Ancak farkında olan insan kendini keşfetme yolculuğuna çıkabilir." <br/> Doğan Cüceloğlu
             </h2>
             <a href="https://wa.me/+905431373548" target="_blank" rel="noopener noreferrer" class='btn btn-success rounded-0 mr-2'>
               Whatsapp
