@@ -4,6 +4,8 @@ import Header from '../UI/Header/Header';
 import Footer from '../UI/Footer/Footer';
 import Sections from '../sections/Sections';
 
+
+
 const Layout = () => {
   return (
     <Fragment>
@@ -11,6 +13,8 @@ const Layout = () => {
       <main>
         <Sections />
       </main>
+    
+      
       <Footer />
     </Fragment>
   );

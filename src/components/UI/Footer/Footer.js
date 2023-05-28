@@ -89,17 +89,14 @@ const footer = () => {
                 <small><span style={{color:"white"}}>E-mail : </span> pskhanifeaygun@gmail.com</small>
               </p>
               <div className='social-media mt-4'>
-                <a href='!#' className='text-light'>
+                <a href='https://www.facebook.com/psikologhanifeaygun/' target="_blank" className='text-light'>
                   <i className='fab fa-facebook-f mr-4' />
                 </a>
-                <a href='!#' className='text-light'>
-                  <i className='fab fa-twitter mr-4' />
+                <a href='https://tr.linkedin.com/in/hanife-ayg%C3%BCn-098584240' target="_blank" className='text-light'>
+                  <i className='fab fa-linkedin mr-4' />
                 </a>
-                <a href='!#' className='text-light'>
+                <a href='https://www.instagram.com/uzmanpsikologhanifeaygun/' target="_blank" className='text-light'>
                   <i className='fab fa-instagram mr-4' />
-                </a>
-                <a href='!#' className='text-light'>
-                  <i className='fab fa-github' />
                 </a>
               </div>
             </div>

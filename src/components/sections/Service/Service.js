@@ -34,7 +34,7 @@ const Service = () => {
                   <i className="fas fa-users" />
                 </div>
                 <div className="service-body">
-                  <h5 className="service-title">Aile ve Çift Danışmanlığı</h5>
+                  <h5 className="service-title">Aile Danışmanlığı</h5>
                   <p className="service-description">
                     Çocuk-Ergen-Yetişkin Terapisi Çift ve Aile Terapisi Cinsel
                     Terapi Zeka Testleri Oyun Terapisi Online Terapi

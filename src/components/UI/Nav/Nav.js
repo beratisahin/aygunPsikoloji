@@ -67,7 +67,7 @@ const Nav = () => {
               </Link>
             </li>
             <li className='nav-item'>
-              <Link target='blog' classes='nav-link'>
+              <Link target='bank' classes='nav-link'>
               BANKA BİLGİLERİ
               </Link>
             </li>
@@ -77,8 +77,8 @@ const Nav = () => {
               </Link>
             </li>
             <li className='nav-item'>
-              <Link target='contact' classes='nav-link'>
-               KVKK
+            <Link target='kvkk' classes='nav-link'>
+              KVKK
               </Link>
             </li>
           </ul>

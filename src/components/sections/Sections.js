@@ -6,6 +6,8 @@ import Service from './Service/Service';
 import Facts from './Facts/Facts';
 import Blog from './Blog/Blog';
 import Contact from './Contact/Contact';
+import Bank from "./Bank/Bank";
+import Kvkk from "./Kvkk/Kvkk";
 import MapMarker from './MapMarker/MapMarker';
 
 const sections = () => {
@@ -16,7 +18,9 @@ const sections = () => {
       <Service />
       <Blog />
       <Facts />
+      <Bank />
       <Contact />
+      <Kvkk />
       <MapMarker />
     </Fragment>
   );
