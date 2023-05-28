@@ -1,5 +1,6 @@
 import React from 'react';
 
+
 import Section from '../../../HOC/Section';
 
 const contact = () => {
@@ -11,9 +12,6 @@ const contact = () => {
             <span>Bizimle </span>İletişime Geçin
           </h3>
           <h6 className='section-subtitle mr-auto ml-auto'>
-            Individualized quality care that meets the total needs of the
-            patient Individualized quality care that quality care that
-            Individualized quality care that meets the total.
           </h6>
         </div>
         <div className='section-content'>
@@ -25,7 +23,7 @@ const contact = () => {
                     type='text'
                     className='form-control rounded-0'
                     aria-describedby='emailHelp'
-                    placeholder='Enter Name...'
+                    placeholder='İsminizi giriniz...'
                   />
                 </div>
                 <div className='form-group'>
@@ -33,19 +31,19 @@ const contact = () => {
                     type='email'
                     className='form-control rounded-0'
                     aria-describedby='emailHelp'
-                    placeholder='Enter email...'
+                    placeholder='Emailinizi giriniz...'
                   />
                 </div>
                 <div className='form-group'>
                   <textarea
                     className='form-control rounded-0'
                     rows='5'
-                    placeholder='Enter Message...'
+                    placeholder='Mesajınızı giriniz...'
                   />
                 </div>
                 <div className='form-group text-center'>
                   <button className='btn btn-block btn-primary rounded-0 mr-auto ml-auto'>
-                    Send
+                    Gönder
                   </button>
                 </div>
               </form>

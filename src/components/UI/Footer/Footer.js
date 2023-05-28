@@ -9,82 +9,84 @@ const footer = () => {
         <div className='row'>
           <div className='col-sm-6 col-md-6 col-lg-4 mb-5'>
             <div className='footer-title'>
-              <h6>About Us</h6>
+              <h6>Hakkında</h6>
             </div>
             <div className='footer-content'>
               <p>
                 <small className='text-muted'>
-                  Aenean suscipit eget mi act fermentum phasellus vulputate
-                  turpis tincidunt. Aenean suscipit eget. Aenean suscipit eget
-                  mi act fermentum phasellus vulputate turpis tincidunt. Aenean
-                  suscipit ege Aenean suscipit eget mi act fermentum phasellus.
+                Samsun Vezirköprü ilçesinde doğan Uzman Klinik Psikolog Hanife Aygün psikoloji lisans eğitimini Trabzon Avrasya Üniversitesinde bitirdikten sonra İstanbul Üsküdar Üniversitesi Klinik Psikoloji Yüksek Lisans eğitimine başlamıştır.
                 </small>
               </p>
               <button className='btn btn-sm btn-primary rounded-0'>
-                Learn more
+                Daha Fazla Bilgi
               </button>
             </div>
           </div>
           <div className='col-sm-6 col-md-6 col-lg-2 mb-5'>
             <div className='footer-title'>
-              <h6>Quick Links</h6>
+              <h6>Bağlantılar</h6>
             </div>
             <div className='footer-content'>
               <ul className='list-group quick-links'>
                 <li>
                   <Link target='home' offset={-120}>
-                    Home
+                    Anasayfa
                   </Link>
                 </li>
                 <li>
-                  <Link target='about'>About</Link>
+                  <Link target='about'>Hakkında</Link>
                 </li>
                 <li>
-                  <Link target='services'>Services</Link>
+                  <Link target='services'>Hizmetler</Link>
                 </li>
                 <li>
                   <Link target='blog'>Blog</Link>
                 </li>
                 <li>
-                  <Link target='contact'>Contact</Link>
+                  <Link target='contact'>İletişim</Link>
                 </li>
               </ul>
             </div>
           </div>
           <div className='col-sm-6 col-md-6 col-lg-3 mb-5'>
             <div className='footer-title'>
-              <h6>Latest News</h6>
+              <h6>Çalışma Saatleri</h6>
             </div>
             <div className='footer-content'>
-              <p>
-                <small className='text-muted'>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                </small>
-              </p>
-              <p>
-                <small className='text-muted'>
-                  Pellentesque et pulvinar enim. Quisque at tempor ligula Natus
-                  error sit voluptatem
-                </small>
-              </p>
-              <p>
-                <small className='text-muted'>accusantium doloremque</small>
-              </p>
+            <table class="table table-striped" >
+                    
+                    <tbody>
+                        <tr style={{height:"2px", color:"gray", fontSize:"small"}}>
+                            <td>Haftaiçi</td>
+                            <td>09:00 - 18:00</td>
+                        </tr>
+                        <tr style={{height:"2px", color:"gray",fontSize:"small"}}>
+                            <td>Cumartesi</td>
+                            <td>10:00 - 17:00</td>
+                        </tr>
+                        <tr style={{height:"2px", color:"gray",fontSize:"small"}}>
+                            <td>Pazar</td>
+                            <td>Kapalı</td>
+                        </tr>
+                      
+                    </tbody>
+                    
+                    </table>
             </div>
           </div>
           <div className='col-sm-6 col-md-6 col-lg-3 mb-5'>
             <div className='footer-title'>
-              <h6>Contact Us</h6>
+              <h6>İletişim Bilgileri</h6>
             </div>
             <div className='footer-content'>
               <p className='text-muted'>
-                <small>Address : 123 main street, Algiers, Algeria</small>
+                <small> <span style={{color:"white"}}>Adres : </span> Fazıl Ahmet Paşa, Fazıl Mustafa Caddesi N0:73 D:1, 55900 Vezirköprü/Samsun</small>
               </p>
               <p className='text-muted'>
-                <small>Phone : +213 (0) 123 456 789</small>
+                <small><span style={{color:"white"}}>Telefon : </span> 0543 137 35 48</small>
               </p>
               <p className='text-muted'>
-                <small>E-mail : contact@email.com</small>
+                <small><span style={{color:"white"}}>E-mail : </span> pskhanifeaygun@gmail.com</small>
               </p>
               <div className='social-media mt-4'>
                 <a href='!#' className='text-light'>
@@ -105,7 +107,7 @@ const footer = () => {
         </div>
       </div>
       <div className='bottom-footer pt-3 pb-3 text-center'>
-        <small>© All Right Reserved. Design By Mohamed Azouaoui</small>
+        <small>© All Right Reserved. Design By Berati Şahin</small>
       </div>
     </footer>
   );
