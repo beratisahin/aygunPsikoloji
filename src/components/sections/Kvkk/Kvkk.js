@@ -9,11 +9,11 @@ const Kvkk = () => {
       <div className="container pt-2 pb-5">
         <div className="section-header pt-5 pb-5 text-center">
           <h3 className="section-title">
-            <span>Kişisel Verilerin </span> Korunma Kanunu
+            <span>KVKK </span>
           </h3>
           <div class="accordion accordion-flush" id="accordionFlushExample">
             <div class="accordion-item">
-              <h2 class="accordion-header">
+              <h5 class="accordion-header">
                 <button
                   class="accordion-button collapsed"
                   type="button"
@@ -24,7 +24,7 @@ const Kvkk = () => {
                 >
                   Aydınlatma Metni
                 </button>
-              </h2>
+              </h5>
               <div
                 id="flush-collapseOne"
                 class="accordion-collapse collapse"
@@ -32,11 +32,11 @@ const Kvkk = () => {
               >
                 <div class="accordion-body">
                   <div class="inner-post-entry entry-content">
-                    <h2 class="wp-block-heading">
+                    <h5 class="wp-block-heading">
                       <strong>
                         Kişisel Verilerin İşlenmesine İlişkin Aydınlatma Metni
                       </strong>
-                    </h2>
+                    </h5>
                     <p>
                       İş bu Aydınlatma Metni, www.furkanlenk.com (Bundan sonra
                       “site” olarak anılacaktır.) internet sitesi ile alakalı
@@ -308,7 +308,7 @@ const Kvkk = () => {
               </div>
             </div>
             <div class="accordion-item">
-              <h2 class="accordion-header">
+              <h5 class="accordion-header">
                 <button
                   class="accordion-button collapsed"
                   type="button"
@@ -319,7 +319,7 @@ const Kvkk = () => {
                 >
                   KVKK Metni Bilgilendirme Metni
                 </button>
-              </h2>
+              </h5>
               <div
                 id="flush-collapseTwo"
                 class="accordion-collapse collapse"
@@ -333,9 +333,9 @@ const Kvkk = () => {
                     {" "}
                     <div class="penci-page-header">
                       {" "}
-                      <h1 class="entry-title">
+                      <h5 class="entry-title">
                         KVKK METNİ BİLGİLENDİRME METNİ
-                      </h1>{" "}
+                      </h5>{" "}
                     </div>{" "}
                     <div class="penci-hide-tagupdated">
                       {" "}

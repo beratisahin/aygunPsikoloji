@@ -14,25 +14,25 @@ const Bank = () => {
         </div>
         <div class="card-group">
           <div class="card">
-            <img src={kk1} class="card-img-top" alt="..." style={{margin:"5px"}}></img>
+            <img src={kk1} class="card-img-top" alt="..." style={{margin:"auto",display:"block",justifyContent:"center"}}></img>
             <div class="card-body">
-              <h5 class="card-title">Kredi Kartı</h5>
+              <h5 class="card-title">Banka Kartı</h5>
              
             </div>
             
           </div>
           <div class="card">
-            <img src={kk1} class="card-img-top" alt="..." style={{margin:"5px"}}></img>
+            <img src={kk1} class="card-img-top" alt="..." style={{margin:"auto",display:"block",justifyContent:"center"}}></img>
             <div class="card-body">
-              <h5 class="card-title">Kredi Kartı</h5>
+              <h5 class="card-title">Banka Kartı</h5>
               
             </div>
            
           </div>
           <div class="card">
-            <img src={kk1} class="card-img-top" alt="..." style={{margin:"5px"}}></img>
+            <img src={kk1} class="card-img-top" alt="..." style={{margin:"auto",display:"block",justifyContent:"center"}}></img>
             <div class="card-body">
-              <h5 class="card-title">Kredi Kartı</h5>
+              <h5 class="card-title">Banka Kartı</h5>
             </div>
             
           </div>

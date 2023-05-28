@@ -36,8 +36,8 @@ const Service = () => {
                 <div className="service-body">
                   <h5 className="service-title">Aile Danışmanlığı</h5>
                   <p className="service-description">
-                    Çocuk-Ergen-Yetişkin Terapisi Çift ve Aile Terapisi Cinsel
-                    Terapi Zeka Testleri Oyun Terapisi Online Terapi
+                    Çocuk-Ergen-Yetişkin Terapisi Çift ve Aile Terapisi 
+                    Zeka Testleri Oyun Terapisi Online Terapi
                   </p>
                 </div>
               </div>
@@ -65,7 +65,7 @@ const Service = () => {
                   <h5 className="service-title">Ergen Danışmanlığı</h5>
                   <p className="service-description">
                     Çocuk-Ergen-Yetişkin Terapisi Çift ve Aile Terapisi Cinsel
-                    Terapi Zeka Testleri Oyun Terapisi Online Terapi
+                    Terapi Zeka Testleri Oyun Terapisi Online
                   </p>
                 </div>
               </div>
