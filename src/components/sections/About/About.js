@@ -9,12 +9,17 @@ const about = () => {
       <div className="container pt-2 pb-5">
         <div className="section-header pt-5 pb-5 text-center">
           <h3 className="section-title">
-            <span>Our </span>Company
+            <span>Vezirköprü </span>Aygün Psikolji
           </h3>
           <h6 className="section-subtitle mr-auto ml-auto">
-            Individualized quality care that meets the total needs of the
-            patient Individualized quality care that quality care that
-            Individualized quality care that meets the total.
+          Ben Klinik Psikolog Hanife Aygün.Öncelikle akademik eğitimimden
+            bahsetmek istiyorum.Psikoloji lisans eğitimimden sonra Klinik
+            Psikoloji Yüksek Lisans eğitimimi tamamlayarak uzmanlığımı almış
+            bulunmaktayım.Fakülte,hastane,amatem,huzurevi,sevgi evleri,
+            rehabilitasyon merkezleri vb kurumlarda gerek zorunlu gerekse
+            gönüllü tüm stajlarımı tamamladım.Bilişsel Davranışcı Terapi ekolü
+            ile çalışmaktayım. Mesleki bilgi ve deneyimlerimi paylaşmak amaçlı
+            bu sayfayı açmış bulunmaktayım. Kalplere dokunmak gayesi ile.
           </h6>
         </div>
         <div className="section-content">
@@ -28,10 +33,11 @@ const about = () => {
               <h3 className="about-title">Hakkında</h3>
               <div className="about-description">
                 <p>
-                  Samsun Vezirköprü ilçesinde doğan Uzman Klinik Psikolog Hanife Aygün
-                  psikoloji lisans eğitimini Trabzon Avrasya Üniversitesinde
-                  bitirdikten sonra İstanbul Üsküdar Üniversitesi Klinik
-                  Psikoloji Yüksek Lisans eğitimine başlamıştır.
+                  Samsun Vezirköprü ilçesinde doğan Uzman Klinik Psikolog Hanife
+                  Aygün psikoloji lisans eğitimini Trabzon Avrasya
+                  Üniversitesinde bitirdikten sonra İstanbul Üsküdar
+                  Üniversitesi Klinik Psikoloji Yüksek Lisans eğitimine
+                  başlamıştır.
                 </p>
                 <p>
                   Stajyerlik döneminde Panik Atak Bozukluğu, Yaygın Anksiyete
@@ -40,8 +46,14 @@ const about = () => {
                   ve Ağır Yas, Öfke Kontrolü ve Majör Depresif Bozukluk konuları
                   başta olmak üzere farklı alanda çalışarak deneyim edinmiştir.
                 </p>
-
-                <button className="btn btn-primary rounded-0">Read More</button>
+                <a
+                  href="https://tr.linkedin.com/in/hanife-ayg%C3%BCn-098584240"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  class="btn btn-primary rounded-0 mr-2"
+                >
+                  Daha Fazla Bilgi
+                </a>
               </div>
             </div>
           </div>
