@@ -20,7 +20,7 @@ const Service = () => {
                   <i className="fas fa-user" />
                 </div>
                 <div className="service-body">
-                  <h5 className="service-title">Bireysel Danışmanlık</h5>
+                  <h5 className="service-title">Bireysel Psikoterapi</h5>
                   <p className="service-description">
                     Çocuk-Ergen-Yetişkin Terapisi Çift ve Aile Terapisi Cinsel
                     Terapi Zeka Testleri Oyun Terapisi Online Terapi
@@ -34,7 +34,7 @@ const Service = () => {
                   <i className="fas fa-users" />
                 </div>
                 <div className="service-body">
-                  <h5 className="service-title">Aile Danışmanlığı</h5>
+                  <h5 className="service-title">Aile ve Çift Terapisi</h5>
                   <p className="service-description">
                     Çocuk-Ergen-Yetişkin Terapisi Çift ve Aile Terapisi 
                     Zeka Testleri Oyun Terapisi Online Terapi
@@ -62,7 +62,7 @@ const Service = () => {
                   <i className="fas fa-user-clock" />
                 </div>
                 <div className="service-body">
-                  <h5 className="service-title">Ergen Danışmanlığı</h5>
+                  <h5 className="service-title">Ergen Psikoterapisi</h5>
                   <p className="service-description">
                     Çocuk-Ergen-Yetişkin Terapisi Çift ve Aile Terapisi Cinsel
                     Terapi Zeka Testleri Oyun Terapisi Online
@@ -91,6 +91,48 @@ const Service = () => {
                 </div>
                 <div className="service-body">
                   <h5 className="service-title">Online Terapi</h5>
+                  <p className="service-description">
+                    Çocuk-Ergen-Yetişkin Terapisi Çift ve Aile Terapisi Cinsel
+                    Terapi Zeka Testleri Oyun Terapisi Online Terapi
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div className="col-md-6 col-lg-4 mb-3">
+              <div className="service-box d-flex">
+                <div className="service-icon mr-4">
+                <i class="fas fa-home"></i>
+                </div>
+                <div className="service-body">
+                  <h5 className="service-title">Ebeveyn Danışmanlığı</h5>
+                  <p className="service-description">
+                    Çocuk-Ergen-Yetişkin Terapisi Çift ve Aile Terapisi Cinsel
+                    Terapi Zeka Testleri Oyun Terapisi Online Terapi
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div className="col-md-6 col-lg-4 mb-3">
+              <div className="service-box d-flex">
+                <div className="service-icon mr-4">
+                  <i className="fas fa-gamepad" />
+                </div>
+                <div className="service-body">
+                  <h5 className="service-title">Psikolojik Test</h5>
+                  <p className="service-description">
+                    Çocuk-Ergen-Yetişkin Terapisi Çift ve Aile Terapisi Cinsel
+                    Terapi Zeka Testleri  Online Terapi
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div className="col-md-6 col-lg-4 mb-3">
+              <div className="service-box d-flex">
+                <div className="service-icon mr-4">
+                  <i className="fas fa-child" /> 
+                </div>
+                <div className="service-body">
+                  <h5 className="service-title">Çocuk Terapisi</h5>
                   <p className="service-description">
                     Çocuk-Ergen-Yetişkin Terapisi Çift ve Aile Terapisi Cinsel
                     Terapi Zeka Testleri Oyun Terapisi Online Terapi

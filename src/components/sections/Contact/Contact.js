@@ -1,4 +1,9 @@
 import React from 'react';
+import i2 from "./2.webp";
+import i4 from "./4.webp";
+import i5 from "./5.webp";
+import i6 from "./6.webp";
+import "./Contact.css";
 
 
 import Section from '../../../HOC/Section';
@@ -50,7 +55,57 @@ const contact = () => {
             </div>
           </div>
         </div>
+
+        <div class="row">
+       
+      <div class="col-lg-3s col-md-3 col-sm-12 col-12 p-5">
+        <a
+          href="tel: +905431373548"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <img src={i2} className="contactIcons" title="Rezervasyon için Tıklayınız"></img>
+        </a>
+        <p className="contactText">
+        <span style={{color:"#248eff"}}><b>Rezervasyon:</b></span><br/>
+          <b>0543 137 35 48</b>
+        </p>
       </div>
+      
+      <div class="col-lg-3s col-md-3 col-sm-12 col-12 p-5">
+      <a href="https://wa.me/+905431373548" target="_blank">
+          <img src={i4} className="contactIcons" title="WhatsApp için Tıklayınız"></img>
+        </a>
+        <p className="contactText">
+        <span style={{color:"#248eff"}}><b>WhatsApp:</b></span><br/>
+          <b>0543 137 35 48</b>
+        </p>
+      </div>
+      <div class="col-lg-3s col-md-3 col-sm-12 col-12 p-5">
+        <a href="https://www.instagram.com/uzmanpsikologhanifeaygun/" target="_blank">
+          <img src={i5} className="contactIcons" title="Instagram için Tıklayınız"></img>
+        </a>
+        <p className="contactText">
+        <span style={{color:"#248eff"}}><b>Instagram:</b></span><br/>
+          @uzmanpsikologhanifeaygun
+        </p>
+      </div>
+      <div class="col-lg-3s col-md-3 col-sm-12 col-12 p-5">
+        <a
+          href="https://tr.linkedin.com/in/hanife-ayg%C3%BCn-098584240"
+          target="_blank"
+        >
+          <img src={i6} className="contactIcons" title="Facebook için Tıklayınız"></img>
+        </a>
+        <p className="contactText">
+        <span style={{color:"#248eff"}}><b>LinkedIn:</b></span><br/>
+          Hanife Aygün
+        </p>
+      </div>
+      </div>
+      </div>
+
+     
     </Section>
   );
 };

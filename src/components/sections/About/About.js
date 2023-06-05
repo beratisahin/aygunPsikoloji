@@ -12,7 +12,7 @@ const about = () => {
             <span>Vezirköprü </span>Aygün Psikoloji
           </h3>
           <h6 className="section-subtitle mr-auto ml-auto">
-          Ben Klinik Psikolog Hanife Aygün.Öncelikle akademik eğitimimden
+            Ben Klinik Psikolog Hanife Aygün.Öncelikle akademik eğitimimden
             bahsetmek istiyorum.Psikoloji lisans eğitimimden sonra Klinik
             Psikoloji Yüksek Lisans eğitimimi tamamlayarak uzmanlığımı almış
             bulunmaktayım.Fakülte,hastane,amatem,huzurevi,sevgi evleri,
@@ -20,6 +20,18 @@ const about = () => {
             gönüllü tüm stajlarımı tamamladım.Bilişsel Davranışcı Terapi ekolü
             ile çalışmaktayım. Mesleki bilgi ve deneyimlerimi paylaşmak amaçlı
             bu sayfayı açmış bulunmaktayım. Kalplere dokunmak gayesi ile.
+            <br />
+            <br />
+            Aygün psikoloji iş ve örgüt psikolojisi kapsamında kuruma ve kurum
+            çalışanlarına yönelik danışmanlık ve eğitim çalışmaları
+            gerçekleştirir.
+            Aygün psikoloji kurumların talep ve ihtiyaçlarına
+            yönelik farklı alanlarda eğitimler vermektedir. Kurum ve
+            çalışanlarının gelişimi ve desteklenmesini temel alan eğitim ve
+            atölye çalışmalarından bazılarının başlıkları şu şekildedir;
+            <br/> 
+            stres yönetimi öfke yönetimi kriz ve çatışma yönetimi ekip çalışması ekip
+            için iletişim çalışanlar için psikolojik öz bakım
           </h6>
         </div>
         <div className="section-content">

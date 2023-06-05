@@ -38,7 +38,7 @@ const Facts = () => {
                 <i className='fas fa-trophy' />
               </div>
               <h4 className='facts-counter text-light'>6</h4>
-              <h5 className='facts-title text-light'>Ödül</h5>
+              <h5 className='facts-title text-light'>Makale</h5>
             </div>
           </div>
         </div>

@@ -17,9 +17,14 @@ const footer = () => {
                 Samsun Vezirköprü ilçesinde doğan Uzman Klinik Psikolog Hanife Aygün psikoloji lisans eğitimini Trabzon Avrasya Üniversitesinde bitirdikten sonra İstanbul Üsküdar Üniversitesi Klinik Psikoloji Yüksek Lisans eğitimine başlamıştır.
                 </small>
               </p>
-              <button className='btn btn-sm btn-primary rounded-0'>
-                Daha Fazla Bilgi
-              </button>
+              <a
+                  href="https://tr.linkedin.com/in/hanife-ayg%C3%BCn-098584240"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  class="btn btn-primary rounded-0 mr-2"
+                >
+                  Daha Fazla Bilgi
+                </a>
             </div>
           </div>
           <div className='col-sm-6 col-md-6 col-lg-2 mb-5'>
