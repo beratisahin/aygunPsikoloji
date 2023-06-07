@@ -1,6 +1,6 @@
 import React from 'react';
 import Layout from './components/Layout/Layout';
-import KVKK from "./components/sections/Bank/Bank";
+import KVKK from "./components/sections/Education/Education";
 
 function App() {
   return <Layout />;
