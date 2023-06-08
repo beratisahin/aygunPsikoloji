@@ -180,7 +180,7 @@ const Service = () => {
                     ·        İş Hayatına Yönelik Problemler
                   </li>
                 </ul>
-
+                <br/>
                 <ul class="list-group">
                   <li class="list-group-item active" aria-current="true">
                     <b>Çocuk Psikoterapisi</b>
@@ -219,7 +219,8 @@ const Service = () => {
                     ·        Ağlama ve Öfke Nöbetleri
                   </li>
                 </ul>
-
+                
+                <br/>
                 <ul class="list-group">
                   <li class="list-group-item active" aria-current="true">
                     <b>Ergen Psikoterapisi</b>
@@ -252,7 +253,7 @@ const Service = () => {
                     ·        Teknoloji Bağımlılığı
                   </li>
                 </ul>
-
+                <br/>
                 <ul class="list-group">
                   <li class="list-group-item active" aria-current="true">
                     <b>Aile ve Çift Terapisi</b>
@@ -269,7 +270,7 @@ const Service = () => {
                     ·        İlişki İçindeki Temel İhtiyaçlar
                   </li>
                 </ul>
-
+                <br/>
                 <ul class="list-group">
                   <li class="list-group-item active" aria-current="true">
                     <b>Cinsel Terapiler</b>
@@ -278,7 +279,7 @@ const Service = () => {
                   <li class="list-group-item">·        Disparoni</li>
                   <li class="list-group-item">·        Cinsel İsteksizlik</li>
                 </ul>
-
+                <br/>
                 <ul class="list-group">
                   <li class="list-group-item active" aria-current="true">
                     <b>Ebeveyn Danışmanlığı</b>
@@ -299,7 +300,7 @@ const Service = () => {
                     İlgili Süreç Yönetimi
                   </li>
                 </ul>
-
+                <br/>
                 <ul class="list-group">
                   <li class="list-group-item active" aria-current="true">
                     <b>Psikolojik Testler ve Değerlendirme</b>
