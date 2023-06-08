@@ -1,7 +1,6 @@
 import React from "react";
 
 import Section from "../../../HOC/Section";
-import aboutImage from "../../../assets/img/about.jpg";
 
 const Kvkk = () => {
   return (

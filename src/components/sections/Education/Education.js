@@ -1,6 +1,5 @@
 import React from "react";
 import Section from "../../../HOC/Section";
-import kk1 from "../../../assets/img/sanal1.png";
 
 const Education = () => {
   return (
