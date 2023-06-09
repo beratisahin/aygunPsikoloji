@@ -20,7 +20,7 @@ const Service = () => {
                   <i className="fas fa-user" />
                 </div>
                 <div className="service-body">
-                  <h5 className="service-title">Bireysel Psikoterapi</h5>
+                  <h5 className="service-title">Bireysel Terapi</h5>
                   <p className="service-description">Detaylarını aşağıda belirttiğimiz birçok konuda siz değerli danışanlarımıza destek sağlıyoruz.
 
                   </p>
@@ -59,7 +59,7 @@ const Service = () => {
                   <i className="fas fa-user-clock" />
                 </div>
                 <div className="service-body">
-                  <h5 className="service-title">Ergen Psikoterapisi</h5>
+                  <h5 className="service-title">Ergen Terapisi</h5>
                   <p className="service-description">
                   Detaylarını aşağıda belirttiğimiz birçok konuda siz değerli danışanlarımıza destek sağlıyoruz.
                   </p>
@@ -137,7 +137,7 @@ const Service = () => {
               <div className="col-md-12 col-lg-12 mb-12">
                 <ul class="list-group">
                   <li class="list-group-item active" aria-current="true">
-                    <b>Bireysel Psikoterapi</b>
+                    <b>Bireysel Terapi</b>
                   </li>
                   <li class="list-group-item">·        Depresyon</li>
                   <li class="list-group-item">
@@ -183,7 +183,7 @@ const Service = () => {
                 <br/>
                 <ul class="list-group">
                   <li class="list-group-item active" aria-current="true">
-                    <b>Çocuk Psikoterapisi</b>
+                    <b>Çocuk Terapisi</b>
                   </li>
                   <li class="list-group-item">
                     ·        Gelişimsel Problemler
@@ -223,7 +223,7 @@ const Service = () => {
                 <br/>
                 <ul class="list-group">
                   <li class="list-group-item active" aria-current="true">
-                    <b>Ergen Psikoterapisi</b>
+                    <b>Ergen Terapisi</b>
                   </li>
                   <li class="list-group-item">
                     ·        Ergenlik Döneminin Gelişimsel Özellikleri
