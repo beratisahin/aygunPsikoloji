@@ -16,7 +16,6 @@ const sections = () => {
       <Home />
       <About />
       <Service />
-      <Blog />
       <Facts />
       <Education />
       <Contact />
